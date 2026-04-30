@@ -1,0 +1,27 @@
+baseURL = "https://me.mihir.uk/"
+title = "Mihir | DevOps Engineer"
+theme = "PaperMod"
+
+[params]
+  author = "Mihir"
+  description = "DevOps Engineer | AWS | Kubernetes | Automation"
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  defaultTheme = "dark"
+
+[menu]
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Projects"
+    url = "/projects/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Blog"
+    url = "/posts/"
+    weight = 3
