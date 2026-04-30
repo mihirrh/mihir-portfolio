@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Mihir - DevOps Engineer on Mihir | DevOps Engineer</title>
-    <link>http://localhost:1313/</link>
+    <link>https://me.mihir.uk/</link>
     <description>Recent content in Mihir - DevOps Engineer on Mihir | DevOps Engineer</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 05 Mar 2026 10:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://me.mihir.uk/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AWS Automation</title>
-      <link>http://localhost:1313/projects/aws-automation/</link>
+      <link>https://me.mihir.uk/projects/aws-automation/</link>
       <pubDate>Thu, 05 Mar 2026 10:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/aws-automation/</guid>
+      <guid>https://me.mihir.uk/projects/aws-automation/</guid>
       <description>&lt;p&gt;Worked on automating AWS workflows including credential rotation and instance management.&lt;/p&gt;
 &lt;h2 id=&#34;highlights&#34;&gt;Highlights&lt;/h2&gt;
 &lt;ul&gt;
@@ -25,9 +25,9 @@
     </item>
     <item>
       <title>Kubernetes Homelab</title>
-      <link>http://localhost:1313/projects/homelab/</link>
+      <link>https://me.mihir.uk/projects/homelab/</link>
       <pubDate>Wed, 04 Mar 2026 10:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/homelab/</guid>
+      <guid>https://me.mihir.uk/projects/homelab/</guid>
       <description>&lt;p&gt;Built a self-managed Kubernetes cluster to experiment with infrastructure patterns.&lt;/p&gt;
 &lt;h2 id=&#34;highlights&#34;&gt;Highlights&lt;/h2&gt;
 &lt;ul&gt;
@@ -41,9 +41,9 @@
     </item>
     <item>
       <title>About Me</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://me.mihir.uk/about/</link>
       <pubDate>Tue, 10 Feb 2026 10:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://me.mihir.uk/about/</guid>
       <description>&lt;p&gt;I’m a DevOps Engineer with hands-on experience in cloud infrastructure, automation, and platform engineering.&lt;/p&gt;
 &lt;p&gt;My work focuses on making systems reliable, scalable, and easy to operate.&lt;/p&gt;
 &lt;h2 id=&#34;skills&#34;&gt;Skills&lt;/h2&gt;
@@ -66,9 +66,9 @@
     </item>
     <item>
       <title>Blog</title>
-      <link>http://localhost:1313/posts/kubernetes-homelab/</link>
+      <link>https://me.mihir.uk/posts/kubernetes-homelab/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/kubernetes-homelab/</guid>
+      <guid>https://me.mihir.uk/posts/kubernetes-homelab/</guid>
       <description></description>
     </item>
   </channel>

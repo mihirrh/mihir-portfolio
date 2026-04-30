@@ -2,27 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/projects/aws-automation/</loc>
+    <loc>https://me.mihir.uk/projects/aws-automation/</loc>
     <lastmod>2026-03-05T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://me.mihir.uk/</loc>
     <lastmod>2026-03-05T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/</loc>
+    <loc>https://me.mihir.uk/projects/</loc>
     <lastmod>2026-03-05T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/homelab/</loc>
+    <loc>https://me.mihir.uk/projects/homelab/</loc>
     <lastmod>2026-03-04T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://me.mihir.uk/about/</loc>
     <lastmod>2026-02-10T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://me.mihir.uk/posts/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/kubernetes-homelab/</loc>
+    <loc>https://me.mihir.uk/posts/kubernetes-homelab/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://me.mihir.uk/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://me.mihir.uk/tags/</loc>
   </url>
 </urlset>
