@@ -1,6 +1,6 @@
 ---
 title: "Kubernetes Homelab"
-date: 04-03-2026
+date: 2026-03-04T10:00:00+00:00
 ---
 
 Built a self-managed Kubernetes cluster to experiment with infrastructure patterns.

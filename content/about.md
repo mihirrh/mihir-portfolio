@@ -1,6 +1,6 @@
 ---
 title: "About Me"
-date: 10-02-2026
+date: 2026-02-10T10:00:00+00:00
 ---
 
 I’m a DevOps Engineer with hands-on experience in cloud infrastructure, automation, and platform engineering.

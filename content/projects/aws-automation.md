@@ -1,6 +1,6 @@
 ---
 title: "AWS Automation"
-date: 05-03-2026
+date: 2026-03-05T10:00:00+00:00
 ---
 
 Worked on automating AWS workflows including credential rotation and instance management.

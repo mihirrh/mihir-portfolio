@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://me.mihir.uk/projects/aws-automation/</loc>
+    <lastmod>2026-03-05T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://me.mihir.uk/</loc>
+    <lastmod>2026-03-05T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://me.mihir.uk/projects/</loc>
+    <lastmod>2026-03-05T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://me.mihir.uk/projects/homelab/</loc>
+    <lastmod>2026-03-04T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://me.mihir.uk/about/</loc>
+    <lastmod>2026-02-10T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://me.mihir.uk/posts/</loc>
+  </url><url>
+    <loc>https://me.mihir.uk/posts/kubernetes-homelab/</loc>
+  </url><url>
+    <loc>https://me.mihir.uk/categories/</loc>
+  </url><url>
+    <loc>https://me.mihir.uk/tags/</loc>
+  </url>
+</urlset>

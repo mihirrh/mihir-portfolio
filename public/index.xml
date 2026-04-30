@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Mihir - DevOps Engineer on Mihir | DevOps Engineer</title>
+    <link>https://me.mihir.uk/</link>
+    <description>Recent content in Mihir - DevOps Engineer on Mihir | DevOps Engineer</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 05 Mar 2026 10:00:00 +0000</lastBuildDate>
+    <atom:link href="https://me.mihir.uk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AWS Automation</title>
+      <link>https://me.mihir.uk/projects/aws-automation/</link>
+      <pubDate>Thu, 05 Mar 2026 10:00:00 +0000</pubDate>
+      <guid>https://me.mihir.uk/projects/aws-automation/</guid>
+      <description>&lt;p&gt;Worked on automating AWS workflows including credential rotation and instance management.&lt;/p&gt;
+&lt;h2 id=&#34;highlights&#34;&gt;Highlights&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;IAM automation&lt;/li&gt;
+&lt;li&gt;CLI tooling improvements&lt;/li&gt;
+&lt;li&gt;SSM usage for instance management&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;outcome&#34;&gt;Outcome&lt;/h2&gt;
+&lt;p&gt;Reduced manual effort and improved operational consistency.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Kubernetes Homelab</title>
+      <link>https://me.mihir.uk/projects/homelab/</link>
+      <pubDate>Wed, 04 Mar 2026 10:00:00 +0000</pubDate>
+      <guid>https://me.mihir.uk/projects/homelab/</guid>
+      <description>&lt;p&gt;Built a self-managed Kubernetes cluster to experiment with infrastructure patterns.&lt;/p&gt;
+&lt;h2 id=&#34;highlights&#34;&gt;Highlights&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;GitOps deployment using FluxCD&lt;/li&gt;
+&lt;li&gt;Helm-based application management&lt;/li&gt;
+&lt;li&gt;Repeatable cluster rebuilds&lt;/li&gt;
+&lt;li&gt;Adding Monitoring Dashboards&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;why&#34;&gt;Why&lt;/h2&gt;
+&lt;p&gt;To simulate real-world infrastructure in a controlled environment and experiment safely.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About Me</title>
+      <link>https://me.mihir.uk/about/</link>
+      <pubDate>Tue, 10 Feb 2026 10:00:00 +0000</pubDate>
+      <guid>https://me.mihir.uk/about/</guid>
+      <description>&lt;p&gt;I’m a DevOps Engineer with hands-on experience in cloud infrastructure, automation, and platform engineering.&lt;/p&gt;
+&lt;p&gt;My work focuses on making systems reliable, scalable, and easy to operate.&lt;/p&gt;
+&lt;h2 id=&#34;skills&#34;&gt;Skills&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;AWS (IAM, SSM, EC2, networking)&lt;/li&gt;
+&lt;li&gt;Kubernetes&lt;/li&gt;
+&lt;li&gt;CI/CD (GitHub Actions, pipelines)&lt;/li&gt;
+&lt;li&gt;Infrastructure as Code&lt;/li&gt;
+&lt;li&gt;Linux and scripting&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;approach&#34;&gt;Approach&lt;/h2&gt;
+&lt;p&gt;I treat infrastructure like software:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Everything is version controlled&lt;/li&gt;
+&lt;li&gt;Everything is automated&lt;/li&gt;
+&lt;li&gt;Everything is reproducible&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;what-im-working-on&#34;&gt;What I&amp;rsquo;m Working On&lt;/h2&gt;
+&lt;p&gt;Right now I’m building and iterating on a Kubernetes-based homelab using GitOps principles.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Blog</title>
+      <link>https://me.mihir.uk/posts/kubernetes-homelab/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://me.mihir.uk/posts/kubernetes-homelab/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
