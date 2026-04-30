@@ -5,23 +5,29 @@ theme = "PaperMod"
 [params]
   author = "Mihir"
   description = "DevOps Engineer | AWS | Kubernetes | Automation"
+  defaultTheme = "dark"
   ShowReadingTime = true
   ShowShareButtons = true
   ShowPostNavLinks = true
-  defaultTheme = "dark"
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
 
 [menu]
+
   [[menu.main]]
+    identifier = "about"
     name = "About"
     url = "/about/"
     weight = 1
 
   [[menu.main]]
+    identifier = "projects"
     name = "Projects"
     url = "/projects/"
     weight = 2
 
   [[menu.main]]
+    identifier = "posts"
     name = "Blog"
     url = "/posts/"
     weight = 3
